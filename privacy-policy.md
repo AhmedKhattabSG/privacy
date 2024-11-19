@@ -30,6 +30,12 @@ We implement security measures to safeguard your data against unauthorized acces
 
 We have included links on this application for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
 
+## Changes To This Privacy Policy
+
+This Privacy Policy is effective as of October 7, 2024. We may update this policy periodically, and changes will be posted on this page. If any significant updates are made, we will notify users within the app.
+
+We reserve the right to update or change our Privacy Policy at any time, and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us or by placing a prominent notice on our application.
+
 ## Photo and Video Permissions Policy
 
 Our app complies with Google’s Photo and Video Permissions Policy to ensure the privacy and security of your data. Specifically:
@@ -62,12 +68,6 @@ That the app is not a substitute for professional medical advice, diagnosis, or 
 Users should always consult a qualified healthcare provider for health concerns.
 For additional details, users are encouraged to review the Health Content and Services policy.
 
-
-## Changes To This Privacy Policy
-
-This Privacy Policy is effective as of October 7, 2024. We may update this policy periodically, and changes will be posted on this page. If any significant updates are made, we will notify users within the app.
-
-We reserve the right to update or change our Privacy Policy at any time, and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us or by placing a prominent notice on our application.
 
 ## Contact Information
 
