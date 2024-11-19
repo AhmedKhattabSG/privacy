@@ -34,15 +34,17 @@ We have included links on this application for your use and reference. We are no
 
 Our app complies with Google’s Photo and Video Permissions Policy to ensure the privacy and security of your data. Specifically:
 
-Purpose of Access:
+Purpose of Access
+Our app requests access to your photos and videos for purposes directly related to app functionality, such as:
 
-Our app requests access to your photos and videos for purposes directly related to app functionality, such as ["uploading profile photos", or "personalized content creation"].
+Uploading profile photos.
+Personalized content creation.
 Access is strictly limited to enabling these features.
-Limiting Scope of Permissions:
 
+Limiting Scope of Permissions
 For occasional or one-time access, we utilize system pickers (e.g., Android Photo Picker) to allow users to select specific media without granting broad access.
-Policy Compliance:
 
+Policy Compliance
 Starting January 22, 2025, our app will comply with all requirements to access photos and videos only when essential for core app functionality. If additional time is required for compliance, extensions may be requested until May 28, 2025.
 
 
