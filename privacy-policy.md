@@ -30,6 +30,22 @@ We implement security measures to safeguard your data against unauthorized acces
 
 We have included links on this application for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
 
+## Photo and Video Permissions Policy
+
+Our app complies with Google’s Photo and Video Permissions Policy to ensure the privacy and security of your data. Specifically:
+
+Purpose of Access:
+
+Our app requests access to your photos and videos for purposes directly related to app functionality, such as ["uploading profile photos", or "personalized content creation"].
+Access is strictly limited to enabling these features.
+Limiting Scope of Permissions:
+
+For occasional or one-time access, we utilize system pickers (e.g., Android Photo Picker) to allow users to select specific media without granting broad access.
+Policy Compliance:
+
+Starting January 22, 2025, our app will comply with all requirements to access photos and videos only when essential for core app functionality. If additional time is required for compliance, extensions may be requested until May 28, 2025.
+
+
 ## Changes To This Privacy Policy
 
 This Privacy Policy is effective as of October 7, 2024. We may update this policy periodically, and changes will be posted on this page. If any significant updates are made, we will notify users within the app.
